@@ -4,6 +4,7 @@
   <metadata>
     <id>fbexport</id>
     <version>1.90</version>
+	<owners>hans0</owners>
 	<packageSourceUrl>https://github.com/hansnull/chocolatey-fbexport-package</packageSourceUrl>
     <title>FBExport (Install)</title>
     <authors>David Richmond,Milan Babuskov</authors>
@@ -13,7 +14,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://sourceforge.net/projects/fbexport/</projectSourceUrl>
     <docsUrl>http://fbexport.sourceforge.net/manual.html</docsUrl>
-    <tags>fbexport admin firebird fbcopy interbase</tags>
+    <tags>fbexport firebird fbcopy interbase</tags>
     <summary>Tool for exporting and importing data with Firebird and InterBase databases</summary>
     <description># FBExport
 - export and import data from Firebird databases
